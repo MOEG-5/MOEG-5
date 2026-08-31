@@ -13,6 +13,8 @@ Most of what's below was built because I needed it, the rest because I wanted it
 
 **Findout** - a hotkey-activated minimalistic(again?) search tool. Screenshot something, ask it a question, get a short answer back. talks sweet nothings to an LLM and a web search API. Started as a personal itch ("why do I need to open a browser tab for a 3-word answer"), turned into something I'm now building a real backend and payment layer for - mid-rewrite as of right now, ackshually.
 
+**[piwrap](https://github.com/MOEG-5/piwrap)** - My Bubblewrap sandbox setup for Pi agent.
+
 ## how I think about AI tooling (wait let me ask Claude)
 
 Small models need someone to look up to, an orchestrator + narrowly-scoped subagents beats one model doing open-ended "exploration", every time I've tested it anyways.
