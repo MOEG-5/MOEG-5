@@ -27,7 +27,7 @@ Job hunting in Finland while building stuff I use on the side, weighing an ICT r
 
 ## stack
 
-Pi · Python · Node.js · React · tech-buzzword · SQLite · local LLMs · foreign LLMs · pasture grown freerange LLMs · OpenRouter · GitHub · Vercel · Obsidian
+OpenRouter · GitHub · Vercel · Supabase · Pi · Python · Node.js · local LLMs · foreign LLMs · pasture grown freerange LLMs · Obsidian
 
 ---
 
