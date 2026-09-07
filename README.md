@@ -7,11 +7,11 @@ Most of what's below was built because I needed it, the rest because I wanted it
 
 ## what I build
 
+**[Findout](https://github.com/MOEG-5/FindOut-client)** - a hotkey-activated minimalistic "search" tool. Ask it a question, get a short answer back. Accepts images. Talks sweet nothings to an LLM and a web search API. Started as a personal itch ("why do I need to open a browser tab for a 3-word answer"), hosted on Vercel + Supabase.
+
 **[D2Rcompanion](https://github.com/MOEG-5/D2Rcompanion)** - a Diablo II: Resurrected companion tool. Hit a key > receive runewords, automagically! cube recipes, live cross-tab search, hotkey status bar. Linux and Windows builds. Currently untangling a Proton/Lutris window-detection quirk because Steam's WM_CLASS lies to you.
 
 **[animew](https://github.com/MOEG-5/animew)** - Minimalistic beauty of a widget to decorate your desktop with, keeps MAL up to date on your anime addiction.
-
-**Findout** - a hotkey-activated minimalistic(again?) search tool. Screenshot something, ask it a question, get a short answer back. talks sweet nothings to an LLM and a web search API. Started as a personal itch ("why do I need to open a browser tab for a 3-word answer"), turned into something I'm now building a real backend and payment layer for - mid-rewrite as of right now, ackshually.
 
 **[piwrap](https://github.com/MOEG-5/piwrap)** - My Bubblewrap sandbox setup for Pi agent.
 
