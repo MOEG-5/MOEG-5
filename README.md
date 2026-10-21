@@ -1,6 +1,6 @@
 # me MOEG
 
-Laboratory technician by training, self-taught systems builder by compulsion.
+ICT-specialist and a Laboratory technician by training, self-taught systems builder by compulsion.
 
 Plan less, build more, ship what's usable. Let actual usage tell me what the project wants to become.
 
